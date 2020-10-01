@@ -1,6 +1,6 @@
 ![Pyright](/docs/img/PyrightLarge.png)
 
-# Advanced Static type checker for Python
+# Super Advanced Static type checker for Python
 
 ### Speed
 Pyright is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
